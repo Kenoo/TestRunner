@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Neon Gemini Runner</string>
+    <string name="title_activity_main">Neon Gemini Runner</string>
+    <string name="package_name">com.example.geminirunner</string>
+    <string name="custom_url_scheme">com.example.geminirunner</string>
+</resources>
